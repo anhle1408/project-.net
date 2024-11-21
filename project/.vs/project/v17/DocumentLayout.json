@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|d:\\.net\\project\\project\\nhietdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|solutionrelative:project\\nhietdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|d:\\.net\\project\\project\\trungbinhcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|solutionrelative:project\\trungbinhcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|d:\\.net\\project\\project\\bangnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|solutionrelative:project\\bangnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|d:\\.net\\project\\project\\tong2so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|solutionrelative:project\\tong2so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|d:\\.net\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE6F49-8290-4112-ACBA-2AADF8C06A9A}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nhietdo.cs",
+              "DocumentMoniker": "D:\\.Net\\project\\project\\nhietdo.cs",
+              "RelativeDocumentMoniker": "project\\nhietdo.cs",
+              "ToolTip": "D:\\.Net\\project\\project\\nhietdo.cs",
+              "RelativeToolTip": "project\\nhietdo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:09:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trungbinhcong.cs",
+              "DocumentMoniker": "D:\\.Net\\project\\project\\trungbinhcong.cs",
+              "RelativeDocumentMoniker": "project\\trungbinhcong.cs",
+              "ToolTip": "D:\\.Net\\project\\project\\trungbinhcong.cs",
+              "RelativeToolTip": "project\\trungbinhcong.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:06:00.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bangnhan.cs",
+              "DocumentMoniker": "D:\\.Net\\project\\project\\bangnhan.cs",
+              "RelativeDocumentMoniker": "project\\bangnhan.cs",
+              "ToolTip": "D:\\.Net\\project\\project\\bangnhan.cs",
+              "RelativeToolTip": "project\\bangnhan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:00:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tong2so.cs",
+              "DocumentMoniker": "D:\\.Net\\project\\project\\tong2so.cs",
+              "RelativeDocumentMoniker": "project\\tong2so.cs",
+              "ToolTip": "D:\\.Net\\project\\project\\tong2so.cs",
+              "RelativeToolTip": "project\\tong2so.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:28:31.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "D:\\.Net\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:22:22.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
